@@ -1,4 +1,4 @@
-baseURL = "maheshk.dev"
+baseURL = "https://maheshk.dev"
 title   = "Mahesh Kumar"
 languageCode = "en-us"
 theme = "hello-friend-ng"
