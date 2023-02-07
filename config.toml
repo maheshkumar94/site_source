@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://www.maheshk.dev"
 title   = "Mahesh Kumar"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -148,10 +148,10 @@ disableHugoGeneratorInject = false
   #   url = ""
 
   # Uncomment this if you want a portrait on your start page
-  # [params.portrait]
-  # path     = "/img/image_mk.jpg"
-  # alt      = "Portrait"
-  # maxWidth = "500px"
+  [params.portrait]
+   path     = "/img/image_mk.jpg"
+   alt      = "Portrait"
+   maxWidth = "500px"
 
   # Social icons
   # [[params.social]]
