@@ -80,7 +80,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off.
   # The theme is respecting the prefers-color-scheme of the operating systeme.
   # With this option on, the page user is able to set the scheme he wants.
-  enableThemeToggle = true
+  enableThemeToggle = false
 
   # Sharing buttons
   #
@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Global language menu
   #
@@ -149,7 +149,7 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   [params.portrait]
-   path     = "/img/image_mk.jpg"
+   path     = "img/paris_caffe.jpg"
    alt      = "Portrait"
    maxWidth = "500px"
 
