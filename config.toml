@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Global language menu
   #
@@ -149,7 +149,7 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   [params.portrait]
-   path     = "/img/image_mk.jpg"
+   path     = "img/image_mk.jpeg"
    alt      = "Portrait"
    maxWidth = "500px"
 
