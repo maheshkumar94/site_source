@@ -14,7 +14,7 @@ tags:
 
 Va bene, siamo onesti. Se stai leggendo questo, sei uno di tre amici che ho invitato al mio sito. O mi sei. (Non so quale sia piu triste, davvero.)
 
-### Ma cosa e perché è questo <<blog>>?
+### Ma cosa e perché è questo << blog >>?
 
 Its a Tuesday night, I've got an early morning meeting tomorrow that I *do not want to attend,* and I can't get this stupid site to do what I want it to. 
 "But author", you may ask, "why aren't you going to sleep? You could try again tomorrow you know?" 
