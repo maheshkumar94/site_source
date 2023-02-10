@@ -127,7 +127,6 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ""
-    logoText     = "welcome!"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     logoCursorDisabled = true
@@ -174,27 +173,45 @@ disableHugoGeneratorInject = false
   #  name = "stackoverflow"
   #  url  = "https://www.stackoverflow.com/"
 
+
 [languages]
   [languages.en]
-    subtitle  = "my personal site"
+    subtitle   = "Mahesh Kumar's personal site"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    contentDir='content/en'
+    [languages.en.params.logo]
+      logoText     = "welcome!"
+    [[languages.en.menu.main]]
+        identifier = "about"
+        name       = "about"
+        url        = "about/"
+    [[languages.en.menu.main]]
+        identifier = "posts"
+        name       = "posts"
+        url        = "posts/"
+    [[languages.en.menu.main]]
+        identifier = "resume"
+        name       = "resume"
+        url        = "resume/MaheshK_Resume.pdf"
+
 
   [languages.it]
-    subtitle  = "il mio sito personale"
+    subtitle   = "il sito personale della Mahesh Kumar"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "about"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "posts"
-    url        = "posts/"
-  [[menu.main]]
-    identifier = "resume"
-    name       = "resume"
-    url        = "resume/MaheshK_Resume.pdf"
+    contentDir='content/it'
+    [languages.it.params.logo]
+      logoText     = "benvenuto!"
+    [[languages.it.menu.main]]
+        identifier = "about"
+        name       = "di me"
+        url        = "about/"
+    [[languages.it.menu.main]]
+        identifier = "posts"
+        name       = "posti"
+        url        = "posts/"
+    [[languages.it.menu.main]]
+        identifier = "resume"
+        name       = "resume"
+        url        = "resume/MaheshK_Resume.pdf"

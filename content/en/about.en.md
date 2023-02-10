@@ -1,12 +1,10 @@
 +++
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+date = "2023-02-05"
+aliases = ["about-us","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "MK"
 +++
-
-<!-- ![Me in Florence](/img/gelato.jpg) -->
 
 {{< figure src="/img/image_mk.jpg" 
     width="50%" height="50%" 
