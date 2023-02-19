@@ -21,9 +21,7 @@ Its a Tuesday night, I've got an early morning meeting tomorrow that I *do not w
 
 First of all, stop being rude. My name is Mahesh and you damn well know it. Mainly because plastered all over the site, including at the bottom of this very page. And second, how dare you throw logic at me?
 
-Seriously though, I do need to get some sleep. I've already been operating on a sleep deficit for the past week, and going stir crazy over a new hobby isn't helping anyone. And lets be honest - I can bake a mean cheesecake, and build the shit out of Civ 6 wonders, James Joyce I am not.
-
-Here's a picture of me making a bold statement. Good luck trying to figure out the deep hidden meanings here.
+Seriously though, I do need to get some sleep. I've already been operating on a sleep deficit for the past week, and going stir crazy over a new hobby isn't helping anyone. And lets be honest - I can bake a mean cheesecake, and build the shit out of Civ 6 wonders, Bill Bryson I am not. Doesn't hurt to fake it though.
 
 {{< figure src="/img/fashion.jpeg" 
     width="50%" height="50%" 
