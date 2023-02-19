@@ -16,16 +16,14 @@ Va bene, siamo onesti. Se stai leggendo questo, sei uno di tre amici che ho invi
 
 ### Ma cosa e perché è questo << blog >>?
  
-È martedì notte, 
+È martedì notte, ho un incontro domani mattina presto a qui *non voglio partecipare*, e non riesco a convincere questo sito a fare quello che voglio.
+Puoi chiedere “Ma scrittore, perché non dormi? Ci riprovi domani, sai?”
 
-Its a Tuesday night, I've got an early morning meeting tomorrow that I *do not want to attend,* and I can't get this stupid site to do what I want it to. 
-"But author", you may ask, "why aren't you going to sleep? You could try again tomorrow you know?" 
+Prima di tutto, non essere scortese. Mi chiamo Mahesh, e lo sai bene. Principalmente perché e in tutto questo sito. Anche in fondo a questa pagina. È secondo, come osi usare la logica con me?
 
-First of all, stop being rude. My name is Mahesh and you damn well know it. Mainly because plastered all over the site, including at the bottom of this very page. And second, how dare you throw logic at me?
-
-Seriously though, I do need to get some sleep. I've already been operating on a sleep deficit for the past week, and going stir crazy over a new hobby isn't helping anyone. And lets be honest - I can bake a mean cheesecake, and build the shit out of Civ 6 wonders, Bill Bryson I am not. Doesn't hurt to fake it though.
+Sul serio, devo dormire. Posso cuocere una torta al formaggio, e costruire meraviglie in Civ 6, ma non sono un Bill Bryson. Posso ancora fingere.
 
 {{< figure src="/img/fashion.jpeg" 
     width="50%" height="50%" 
-    caption="hot takes only on this channel."
+    caption="Ciao, bella."
 >}}
