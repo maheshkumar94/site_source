@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2023 22:41:41 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il mio primo post</title>
+      <link>http://localhost:1313/it/posts/my-first-post.it/</link>
+      <pubDate>Tue, 07 Feb 2023 22:41:41 -0800</pubDate>
+      <guid>http://localhost:1313/it/posts/my-first-post.it/</guid>
+      <description>Davvero, chi sta leggendo questa cazzo? Va bene, siamo onesti. Se stai leggendo questo, sei uno di tre amici che ho invitato al mio sito. O mi sei. (Non so quale sia piu triste, davvero.)&#xA;Ma cosa e perché è questo &amp;laquo; blog &amp;raquo;? È martedì notte, ho un incontro domani mattina presto a qui non voglio partecipare, e non riesco a convincere questo sito a fare quello che voglio. Puoi chiedere “Ma scrittore, perché non dormi?</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/en/posts/my-first-post/</link>
+      <pubDate>Tue, 07 Feb 2023 22:41:41 -0800</pubDate>
+      <guid>http://localhost:1313/en/posts/my-first-post/</guid>
+      <description>Really, who&amp;rsquo;s reading this shit? Alright, let&amp;rsquo;s be real. If you&amp;rsquo;re reading this, chances are you&amp;rsquo;re one of the three people to whom I sent the link to my site. Or you&amp;rsquo;re me. (I don&amp;rsquo;t know what&amp;rsquo;s sadder, to be honest.)&#xA;So what&amp;rsquo;s this all &amp;ldquo;blog&amp;rdquo; about then? Its a Tuesday night, I&amp;rsquo;ve got an early morning meeting tomorrow that I do not want to attend, and I can&amp;rsquo;t get this stupid site to do what I want it to.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>Hi! My name is Mahesh. I enjoy baking, live music shows, and flight sims. I&amp;rsquo;m experimenting with growing herbs and veg at home, using hydroponics. I am also currently teaching myself the drums, and learning Italian.&#xA;I work as a Business Intelligence Engineer at Amazon. I’ve worked in BI, data analytics and data science roles in a number of different business domains, like e-commerce, supply chain and logistics, grocery, and finance.</description>
+    </item>
+    <item>
+      <title>Di me</title>
+      <link>http://localhost:1313/it/about.it/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/about.it/</guid>
+      <description>Ciao! Sono Mahesh. Mi piace cucinare, concerti, e simulazioni di volo. Sto sperimentando l’idroponica per coltivare verdure in casa. Sto anche imparando a suonare la batteria, e parlare l’italiano.&#xA;Lavoro come ingegnere di BI presso Amazon. Ho lavorato in BI, analisi e scienza dei dati in diverse aziende.&#xA;è c’è dell’altro.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/posts/frecciarossa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/frecciarossa/</guid>
+      <description>As you may know, in 2022, I went on a long-awaited trip to Florence. This is my attempt at putting my expectations, experience, and thoughts to &amp;ldquo;paper&amp;rdquo;. In this post, I want to talk about a long train journey that I took on this, my first trip in Europe.&#xA;Waking up We begin this trip with an early morning from Paris Gare-de-Lyon station.&#xA;And I mean really early. 7:30 AM departure early.</description>
+    </item>
+  </channel>
+</rss>
