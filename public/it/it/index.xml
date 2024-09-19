@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Its on Mahesh Kumar</title>
+    <link>http://localhost:1313/it/it/</link>
+    <description>Recent content in Its on Mahesh Kumar</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Di me</title>
+      <link>http://localhost:1313/it/it/about/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/it/about/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/image_mk.jpg&#34; width=&#34;50%&#34; height=&#34;50%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Ciao! Sono Mahesh. Mi piace cucinare, concerti, e simulazioni di volo. Sto sperimentando l’idroponica per coltivare verdure in casa. Sto anche imparando a suonare la batteria, e parlare l’italiano.&lt;/p&gt;&#xA;&lt;p&gt;Lavoro come ingegnere di BI presso &lt;a href=&#34;https://amazon.com&#34;&gt;Amazon&lt;/a&gt;. Ho lavorato in BI, analisi e scienza dei dati in diverse aziende.&lt;/p&gt;&#xA;&lt;p&gt;è c’è dell’altro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
