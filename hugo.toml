@@ -3,6 +3,14 @@ title   = "Mahesh Kumar"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
+# [module]
+  # [[module.imports]]
+  #   path = "github.com/colinwilson/lotusdocs"
+  #   disable = false
+  # [[module.imports]]
+  #  path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+  #  disable = false
+
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
@@ -176,10 +184,11 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
+    contentDir='content/en'
+  [languages.en.params]
     subtitle   = "Mahesh Kumar's personal site"
     weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    contentDir='content/en'
+    
     [languages.en.params.logo]
       logoText     = "welcome!"
     [[languages.en.menu.main]]
@@ -197,10 +206,11 @@ disableHugoGeneratorInject = false
 
 
   [languages.it]
-    subtitle   = "il sito personale della Mahesh Kumar"
-    weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     contentDir='content/it'
+  [languages.it.params]
+    subtitle   = "il sito personale della Mahesh Kumar"
+    weight    = 2
     [languages.it.params.logo]
       logoText     = "benvenuto!"
     [[languages.it.menu.main]]
