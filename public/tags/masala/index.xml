@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masala on Mahesh Kumar</title>
+    <link>http://localhost:1313/tags/masala/</link>
+    <description>Recent content in Masala on Mahesh Kumar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 07 Feb 2023 22:41:41 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/masala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/2023/02/my-first-post/</link>
+      <pubDate>Tue, 07 Feb 2023 22:41:41 -0800</pubDate>
+      <guid>http://localhost:1313/posts/2023/02/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;really-whos-reading-this-shit&#34;&gt;Really, who&amp;rsquo;s reading this shit?&lt;/h2&gt;&#xA;&lt;p&gt;Alright, let&amp;rsquo;s be real. If you&amp;rsquo;re reading this, chances are you&amp;rsquo;re one of the three people to whom I sent the link to my site. Or you&amp;rsquo;re me. (I don&amp;rsquo;t know what&amp;rsquo;s sadder, to be honest.)&lt;/p&gt;&#xA;&lt;h3 id=&#34;so-whats-this-all-blog-about-then&#34;&gt;So what&amp;rsquo;s this all &amp;ldquo;blog&amp;rdquo; about then?&lt;/h3&gt;&#xA;&lt;p&gt;Its a Tuesday night, I&amp;rsquo;ve got an early morning meeting tomorrow that I &lt;em&gt;do not want to attend,&lt;/em&gt; and I can&amp;rsquo;t get this stupid site to do what I want it to.&#xA;&amp;ldquo;But author&amp;rdquo;, you may ask, &amp;ldquo;why aren&amp;rsquo;t you going to sleep? You could try again tomorrow you know?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
