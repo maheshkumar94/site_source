@@ -2,120 +2,120 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/it/tags/ctr/</loc>
+    <loc>https://maheshk.dev/it/tags/ctr/</loc>
     <lastmod>2023-02-07T22:41:41-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/ctr/"
+                href="https://maheshk.dev/tags/ctr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/ctr/"
+                href="https://maheshk.dev/it/tags/ctr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/tags/dosa/</loc>
+    <loc>https://maheshk.dev/it/tags/dosa/</loc>
     <lastmod>2023-02-07T22:41:41-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/dosa/"
+                href="https://maheshk.dev/tags/dosa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/dosa/"
+                href="https://maheshk.dev/it/tags/dosa/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/posts/2023/02/il-mio-primo-post/</loc>
+    <loc>https://maheshk.dev/it/posts/2023/02/il-mio-primo-post/</loc>
     <lastmod>2023-02-07T22:41:41-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/2023/02/my-first-post/"
+                href="https://maheshk.dev/posts/2023/02/my-first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/posts/2023/02/il-mio-primo-post/"
+                href="https://maheshk.dev/it/posts/2023/02/il-mio-primo-post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/</loc>
+    <loc>https://maheshk.dev/it/</loc>
     <lastmod>2023-02-07T22:41:41-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://maheshk.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/"
+                href="https://maheshk.dev/it/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/tags/masala/</loc>
+    <loc>https://maheshk.dev/it/tags/masala/</loc>
     <lastmod>2023-02-07T22:41:41-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/masala/"
+                href="https://maheshk.dev/tags/masala/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/masala/"
+                href="https://maheshk.dev/it/tags/masala/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/posts/</loc>
+    <loc>https://maheshk.dev/it/posts/</loc>
     <lastmod>2023-02-07T22:41:41-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://maheshk.dev/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/posts/"
+                href="https://maheshk.dev/it/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/tags/</loc>
+    <loc>https://maheshk.dev/it/tags/</loc>
     <lastmod>2023-02-07T22:41:41-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://maheshk.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/"
+                href="https://maheshk.dev/it/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/about/</loc>
+    <loc>https://maheshk.dev/it/about/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://maheshk.dev/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/about/"
+                href="https://maheshk.dev/it/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/categories/</loc>
+    <loc>https://maheshk.dev/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://maheshk.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/categories/"
+                href="https://maheshk.dev/it/categories/"
                 />
   </url>
 </urlset>
