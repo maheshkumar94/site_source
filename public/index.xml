@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahesh Kumar</title>
+    <link>https://maheshk.dev/</link>
+    <description>Recent content on Mahesh Kumar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 07 Feb 2023 22:41:41 -0800</lastBuildDate>
+    <atom:link href="https://maheshk.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://maheshk.dev/posts/2023/02/my-first-post/</link>
+      <pubDate>Tue, 07 Feb 2023 22:41:41 -0800</pubDate>
+      <guid>https://maheshk.dev/posts/2023/02/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;really-whos-reading-this-shit&#34;&gt;Really, who&amp;rsquo;s reading this shit?&lt;/h2&gt;&#xA;&lt;p&gt;Alright, let&amp;rsquo;s be real. If you&amp;rsquo;re reading this, chances are you&amp;rsquo;re one of the three people to whom I sent the link to my site. Or you&amp;rsquo;re me. (I don&amp;rsquo;t know what&amp;rsquo;s sadder, to be honest.)&lt;/p&gt;&#xA;&lt;h3 id=&#34;so-whats-this-all-blog-about-then&#34;&gt;So what&amp;rsquo;s this all &amp;ldquo;blog&amp;rdquo; about then?&lt;/h3&gt;&#xA;&lt;p&gt;Its a Tuesday night, I&amp;rsquo;ve got an early morning meeting tomorrow that I &lt;em&gt;do not want to attend,&lt;/em&gt; and I can&amp;rsquo;t get this stupid site to do what I want it to.&#xA;&amp;ldquo;But author&amp;rdquo;, you may ask, &amp;ldquo;why aren&amp;rsquo;t you going to sleep? You could try again tomorrow you know?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://maheshk.dev/about/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://maheshk.dev/about/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://maheshk.dev/img/image_mk.jpg&#34; width=&#34;50%&#34; height=&#34;50%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Hi! My name is Mahesh. I enjoy baking, live music shows, and flight sims. I&amp;rsquo;m experimenting with growing herbs and veg at home, using hydroponics. I am also currently teaching myself the drums, and learning Italian.&lt;/p&gt;&#xA;&lt;p&gt;I work as a Business Intelligence Engineer at &lt;a href=&#34;https://amazon.com&#34;&gt;Amazon&lt;/a&gt;. I’ve worked in BI, data analytics and data science roles in a number of different business domains, like e-commerce, supply chain and logistics, grocery, and finance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
